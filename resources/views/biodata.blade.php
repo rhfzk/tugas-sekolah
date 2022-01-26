@@ -118,10 +118,10 @@
           <div class="card">
             <div class="card-header"><h5 class="card-title">Pencapaian</h5></div>
             <div class="list-group list-group-horizontal">
-              <div class="list-group-item">Pencapaian 1</div>
-              <div class="list-group-item">Pencapaian 2</div>
-              <div class="list-group-item">Pencapaian 3</div>
-              <div class="list-group-item">Pencapaian 4</div>
+              <div class="list-group-item">Pencapaian 1a</div>
+              <div class="list-group-item">Pencapaian 2a</div>
+              <div class="list-group-item">Pencapaian 3a</div>
+              <div class="list-group-item">Pencapaian 4a</div>
             </div>
           </div>
         </div>

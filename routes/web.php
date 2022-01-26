@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\BiodataController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -31,3 +31,4 @@ Route::get('/biodata', function () {
     ];
     return view('biodata',$data);
 });
+Route::get('/list_siswa', [BiodataController::class, 'index']);
